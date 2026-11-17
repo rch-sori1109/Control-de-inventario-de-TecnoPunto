@@ -1,4 +1,4 @@
-# Control-de-inventario-de-TecnoPunto
+# Rachell Soriano-clases-objetos
 
 ## DESCRIPCIÓN.
 Este programa fue creado con la finalidad de tener un orden en TecnoPunto a la hora de realizar un inventario, evitando errores y perdidas.
