@@ -1,7 +1,21 @@
 # Rachell Soriano-clases-objetos
 
+## datos:
+Rachell Soriano.
+2025-1102.
+
 ## DESCRIPCIÓN.
 Este programa fue creado con la finalidad de tener un orden en TecnoPunto a la hora de realizar un inventario, evitando errores y perdidas.
+
+## datos de entrada:
+por cada uno de los 3 productos el usuario ingresa por teclado: codigo, nombre, precio y cantidad.
+
+## datos de proceso:
+valida el nombre, el precio y la cantidad. Calcula el valor total: ValorTotal=Precio*Cantidad. Si un dato es invalido, muestra un mensaje y vuelve a pedir los datos del producto.
+
+## datos de salida:
+para cada producto: codigo, nombre, precio, cantidad y valor total.
+
 ## RESULTADOS.
 <img width="853" height="999" alt="image" src="https://github.com/user-attachments/assets/36e70861-2043-46d5-96d6-759718846985" />
 En esta primera imagen se muestra que al registrar bien todos los productos como se debe, no hay ningún error y se puede obtener un resultado claro.
